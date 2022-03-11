@@ -1,0 +1,856 @@
+[
+    {
+        "year": 1932,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 3.346185400627624
+        }
+    },
+    {
+        "year": 1933,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 3.423329130240237
+        }
+    },
+    {
+        "year": 1934,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 1.0456020509730601
+        }
+    },
+    {
+        "year": 1935,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 3.4767714639784484
+        }
+    },
+    {
+        "year": 1936,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 4.043143470959997
+        }
+    },
+    {
+        "year": 1937,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 3.548002532735884
+        }
+    },
+    {
+        "year": 1938,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 2.6502677555959475
+        }
+    },
+    {
+        "year": 1939,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 2
+        },
+        "scales": {
+            "1": 3.243766949076142
+        }
+    },
+    {
+        "year": 1940,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 1.5202136216785533
+        }
+    },
+    {
+        "year": 1941,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 0.35930199591611395
+        }
+    },
+    {
+        "year": 1942,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 0.9669865002033644
+        }
+    },
+    {
+        "year": 1943,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 1.162256565785291
+        }
+    },
+    {
+        "year": 1944,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 2.4488820193440737
+        }
+    },
+    {
+        "year": 1945,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 1,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 3.13538508421579
+        }
+    },
+    {
+        "year": 1946,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 4.5491200580474604
+        }
+    },
+    {
+        "year": 1947,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 1,
+            "evacuation": 1
+        },
+        "scales": {
+            "1": 14.004632071910796
+        }
+    },
+    {
+        "year": 1948,
+        "counts": {
+            "bomb": 0,
+            "coin": 1,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 11.586176148555381
+        }
+    },
+    {
+        "year": 1949,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 9.66550029101609
+        }
+    },
+    {
+        "year": 1950,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 2.269548224221595
+        }
+    },
+    {
+        "year": 1951,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 4.338370494089319
+        }
+    },
+    {
+        "year": 1952,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 1.3420978854446948
+        }
+    },
+    {
+        "year": 1953,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 2.597434451302046
+        }
+    },
+    {
+        "year": 1954,
+        "counts": {
+            "bomb": 0,
+            "coin": 6,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 7.187232600984053
+        }
+    },
+    {
+        "year": 1955,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 3.118915912992571
+        }
+    },
+    {
+        "year": 1956,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 3.7425620639661155
+        }
+    },
+    {
+        "year": 1957,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 5,
+            "evacuation": 5
+        },
+        "scales": {
+            "1": 6.428787933003205
+        }
+    },
+    {
+        "year": 1958,
+        "counts": {
+            "bomb": 0,
+            "coin": 1,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 7.368926385203233
+        }
+    },
+    {
+        "year": 1959,
+        "counts": {
+            "bomb": 0,
+            "coin": 1,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 1
+        },
+        "scales": {
+            "1": 5.699500549668705
+        }
+    },
+    {
+        "year": 1960,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 5.516766340148828
+        }
+    },
+    {
+        "year": 1961,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 6.414704127103534
+        }
+    },
+    {
+        "year": 1962,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 10.655325395381082
+        }
+    },
+    {
+        "year": 1963,
+        "counts": {
+            "bomb": 0,
+            "coin": 6,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 11.436938558472558
+        }
+    },
+    {
+        "year": 1964,
+        "counts": {
+            "bomb": 0,
+            "coin": 2,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 10.778273214451184
+        }
+    },
+    {
+        "year": 1965,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 11.013358579954883
+        }
+    },
+    {
+        "year": 1966,
+        "counts": {
+            "bomb": 0,
+            "coin": 1,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 6.103464704834226
+        }
+    },
+    {
+        "year": 1967,
+        "counts": {
+            "bomb": 0,
+            "coin": 1,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 15.382916456838249
+        }
+    },
+    {
+        "year": 1968,
+        "counts": {
+            "bomb": 0,
+            "coin": 3,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 19.8592828725175
+        }
+    },
+    {
+        "year": 1969,
+        "counts": {
+            "bomb": 0,
+            "coin": 6,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 10.359438590353758
+        }
+    },
+    {
+        "year": 1970,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 14.713516968860908
+        }
+    },
+    {
+        "year": 1971,
+        "counts": {
+            "bomb": 0,
+            "coin": 19,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 10.55420113139876
+        }
+    },
+    {
+        "year": 1972,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 17.22792040592201
+        }
+    },
+    {
+        "year": 1973,
+        "counts": {
+            "bomb": 1,
+            "coin": 5,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 1
+        },
+        "scales": {
+            "1": 22.71119012663378
+        }
+    },
+    {
+        "year": 1974,
+        "counts": {
+            "bomb": 0,
+            "coin": 3,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 16.043205879377783
+        }
+    },
+    {
+        "year": 1975,
+        "counts": {
+            "bomb": 0,
+            "coin": 6,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 22.802087771197066
+        }
+    },
+    {
+        "year": 1976,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 16.822788944321562
+        }
+    },
+    {
+        "year": 1977,
+        "counts": {
+            "bomb": 2,
+            "coin": 6,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 11.112934894099585
+        }
+    },
+    {
+        "year": 1978,
+        "counts": {
+            "bomb": 4,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 10.6657042721612
+        }
+    },
+    {
+        "year": 1979,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 12.264787206877912
+        }
+    },
+    {
+        "year": 1980,
+        "counts": {
+            "bomb": 0,
+            "coin": 16,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 25.76488913663148
+        }
+    },
+    {
+        "year": 1981,
+        "counts": {
+            "bomb": 0,
+            "coin": 48,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 19.184909644078292
+        }
+    },
+    {
+        "year": 1982,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 14.879883512064952
+        }
+    },
+    {
+        "year": 1983,
+        "counts": {
+            "bomb": 0,
+            "coin": 14,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 12.18363403342359
+        }
+    },
+    {
+        "year": 1984,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 24.03029715055577
+        }
+    },
+    {
+        "year": 1985,
+        "counts": {
+            "bomb": 0,
+            "coin": 2,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 28.80021575839249
+        }
+    },
+    {
+        "year": 1986,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 24.630724053964993
+        }
+    },
+    {
+        "year": 1987,
+        "counts": {
+            "bomb": 0,
+            "coin": 1,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 11.047489605063095
+        }
+    },
+    {
+        "year": 1988,
+        "counts": {
+            "bomb": 1,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 41.85993864745616
+        }
+    },
+    {
+        "year": 1989,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 30.51671449472682
+        }
+    },
+    {
+        "year": 1990,
+        "counts": {
+            "bomb": 1,
+            "coin": 2,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 29.732969728580258
+        }
+    },
+    {
+        "year": 1991,
+        "counts": {
+            "bomb": 5,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 31.610988148790995
+        }
+    },
+    {
+        "year": 1992,
+        "counts": {
+            "bomb": 0,
+            "coin": 0,
+            "nazi": 0,
+            "chamberlin": 0,
+            "rations": 0,
+            "evacuation": 0
+        },
+        "scales": {
+            "1": 37.9242888734169
+        }
+    }
+]
